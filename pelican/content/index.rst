@@ -3,6 +3,7 @@ My super title
 
 :date: 2014-04-15 14:36
 :tags: python, django
+:category: misc
 :slug: post-inicial
 :author: Marcelo Fonseca Tambalo
 :summary: Teste Inicial com o Pelican
