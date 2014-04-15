@@ -8,7 +8,7 @@ My super title
 :author: Marcelo Fonseca Tambalo
 :summary: Teste Inicial com o Pelican
 
-Texto qualquer para testar o Pelican
+ls -1 | grep -v pelican | xargs -I files rm -rf "files"
 
 Eiiitaaa Mainhaaa!! Esse Lorem ipsum é só na sacanageeem!! E que abundância meu irmão viuu!! Assim você vai matar o papai. Só digo uma coisa, Domingo ela não vai! Danadaa!! Vem minha odalisca, agora faz essa cobra coral subir!!! Pau que nasce torto, Nunca se endireita. Tchannn!! Tchannn!! Tu du du pááá! Eu gostchu muitchu, heinn! danadinha! Mainhaa! Agora use meu lorem ipsum ordinária!!! Olha o quibeee! rema, rema, ordinária!.
  
